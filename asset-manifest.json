@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.763651d5.css",
+    "main.js": "./static/js/main.7a92ea7a.js",
+    "static/js/787.4688be99.chunk.js": "./static/js/787.4688be99.chunk.js",
+    "static/media/Comp 1_00001.png": "./static/media/Comp 1_00001.c0751e2618543357374e.png",
+    "static/media/alfont_com_AlFont_com_4_CA.ttf": "./static/media/alfont_com_AlFont_com_4_CA.e86d0e0fb38b245ebcf5.ttf",
+    "static/media/Path 11615.svg": "./static/media/Path 11615.20b4b7457c667a430782.svg",
+    "index.html": "./index.html",
+    "main.763651d5.css.map": "./static/css/main.763651d5.css.map",
+    "main.7a92ea7a.js.map": "./static/js/main.7a92ea7a.js.map",
+    "787.4688be99.chunk.js.map": "./static/js/787.4688be99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.763651d5.css",
+    "static/js/main.7a92ea7a.js"
+  ]
+}
